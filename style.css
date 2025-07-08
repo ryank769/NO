@@ -1,0 +1,17 @@
+#imag1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+html{
+    background-color: black;
+}
+#had1{
+    color: aliceblue;
+    font-family: "Libertinus Mono",serif;
+    
+    display: block;
+    text-align: center;
+    
+}
